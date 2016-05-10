@@ -5,4 +5,4 @@ A PCB that contains the most neccessary components to operate the HIDIRT firmwar
 
 Pictures of the STM32F103C8T6 DEV BOARD can be found [here](https://www.mikrocontroller.net/topic/350400#4343199) and a schematic [here](https://www.mikrocontroller.net/topic/350400#4042953).
 
-Unfortunately this microcontroller only incorporates a USART bootloader, but none for USB. Therefore any USART interface is needed to flash a USB bootloader once. This will also work with a USB-USART bridge.
+Unfortunately this microcontroller only incorporates a USART bootloader, but none for USB. Therefore any USART interface is needed to flash a USB bootloader once. This can also be done with a USB-USART bridge.
