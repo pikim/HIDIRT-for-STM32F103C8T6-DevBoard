@@ -1,0 +1,267 @@
+Cmp-Mod V01 Created by PcbNew   date = 10.05.2016 19:42:02
+
+BeginCmp
+TimeStamp = 5728FE21
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5728FAB0
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5728F962
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 57151991
+Path = /57170FE4
+Reference = P4;
+ValeurCmp = CONN_01X20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F532
+Path = /5713FFDF
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F65C
+Path = /5714089B
+Reference = Q2;
+ValeurCmp = BC557;
+IdModule  = TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F464
+Path = /5716A560
+Reference = P20;
+ValeurCmp = FLOPPY_POWER;
+IdModule  = pikim:FLOPPY_PWR;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F36C
+Path = /57165E5E
+Reference = U21;
+ValeurCmp = 4N32/4N33;
+IdModule  = Housings_DIP:DIP-6_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F403
+Path = /57168064
+Reference = U22;
+ValeurCmp = 4N32/4N33;
+IdModule  = Housings_DIP:DIP-6_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F43C
+Path = /57163BC1
+Reference = U20;
+ValeurCmp = 4N32/4N33;
+IdModule  = Housings_DIP:DIP-6_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F44B
+Path = /57150890
+Reference = R20;
+ValeurCmp = 100k;
+IdModule  = pikim:Resistor_Vertical_RM5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F3AF
+Path = /5717BF2D
+Reference = C1;
+ValeurCmp = 4u7;
+IdModule  = pikim:C_Radial_D5_L11_P2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F3C1
+Path = /57150EF1
+Reference = R21;
+ValeurCmp = 100k;
+IdModule  = pikim:Resistor_Vertical_RM2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F412
+Path = /57151B45
+Reference = R22;
+ValeurCmp = 100k;
+IdModule  = pikim:Resistor_Vertical_RM2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F4E3
+Path = /57147053
+Reference = R3;
+ValeurCmp = 330;
+IdModule  = pikim:Resistor_Vertical_RM2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F63E
+Path = /5713EDFA
+Reference = R5;
+ValeurCmp = 220k;
+IdModule  = pikim:Resistor_Vertical_RM2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F648
+Path = /5713F758
+Reference = R6;
+ValeurCmp = 22k;
+IdModule  = pikim:Resistor_Vertical_RM2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F652
+Path = /57142F35
+Reference = R7;
+ValeurCmp = 1k5;
+IdModule  = pikim:Resistor_Vertical_RM2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F504
+Path = /57144A8E
+Reference = R2;
+ValeurCmp = 47;
+IdModule  = pikim:Resistor_Vertical_RM2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F51D
+Path = /57146022
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = pikim:C_Rect_L4_W2.5_P2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F390
+Path = /57145DAD
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = pikim:C_Rect_L4_W2.5_P2.54;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F4ED
+Path = /57147A17
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = pikim:LED5MM-90°;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F455
+Path = /5715BBBF
+Reference = U1;
+ValeurCmp = TSOP34xxx;
+IdModule  = pikim:TSOP34xxx;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F4B3
+Path = /5715B6CF
+Reference = P23;
+ValeurCmp = CONN_02X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F4CB
+Path = /5715B5EB
+Reference = P22;
+ValeurCmp = CONN_02X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F545
+Path = /57152F4A
+Reference = P24;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 5715196D
+Path = /57171500
+Reference = P3;
+ValeurCmp = CONN_01X20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = 5728F947
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 57291450
+Path = /572955C3
+Reference = P21;
+ValeurCmp = CONN_02X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F4FA
+Path = /5714631E
+Reference = R4;
+ValeurCmp = 4k7;
+IdModule  = pikim:Resistor_Vertical_RM5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5711F3A5
+Path = /571449BD
+Reference = R1;
+ValeurCmp = 100...1k;
+IdModule  = pikim:Resistor_Vertical_RM5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57291DAC
+Path = /5729D9A2
+Reference = R8;
+ValeurCmp = 0R;
+IdModule  = pikim:Resistor_Vertical_RM5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 572FB48B
+Path = /572FAC43
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+EndListe
